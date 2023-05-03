@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b593eba.css",
-    "main.js": "/static/js/main.222be30e.js",
+    "main.css": "/static/css/main.4a5f8a5b.css",
+    "main.js": "/static/js/main.755eeb67.js",
     "static/media/awatar.png": "/static/media/awatar.5cb1851214be1b36d9fc.png",
     "index.html": "/index.html",
-    "main.2b593eba.css.map": "/static/css/main.2b593eba.css.map",
-    "main.222be30e.js.map": "/static/js/main.222be30e.js.map"
+    "main.4a5f8a5b.css.map": "/static/css/main.4a5f8a5b.css.map",
+    "main.755eeb67.js.map": "/static/js/main.755eeb67.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b593eba.css",
-    "static/js/main.222be30e.js"
+    "static/css/main.4a5f8a5b.css",
+    "static/js/main.755eeb67.js"
   ]
 }
